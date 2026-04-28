@@ -1,2 +1,1 @@
-# mixly-site
-Official website for Mixly iOS application
+google.com, pub-2214588741197172, DIRECT, f08c47fec0942fa0
